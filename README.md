@@ -2,7 +2,7 @@
 
 ### Summary:
 
-Using SQL, Python, and Power BI, I pulled order status data from the database and created a dashboard to analyze Campaign performance
+Using SQL, Python, Power BI, and Excel, I pulled order status data from the database and created a dashboard to analyze Campaign performance
 
 
 ### Objective:
@@ -35,13 +35,13 @@ A handful of KPIs were provided to analyze the data, but I have created addition
 </div>
 
 
-3. Excel: pivot table,power query, dashboard 
+3. Excel: pivot table, power query, dashboard 
 <div>
 <img src="https://github.com/user-attachments/assets/bf0454ed-445f-4285-86d3-de0ef4b58e9c" width="900" height="400">
 <img src="https://github.com/user-attachments/assets/acb13595-54f4-48bb-81b2-f71007ec9955" width="900" height="400">
 </div>
 
-### Key Observation:
+### Results & Business Recommendation:
 
 ✅ Campaign Performance:
 
